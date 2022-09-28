@@ -1,9 +1,4 @@
-/*
- * main.c
- *
- *  Created on: Nov 27, 2018
- *      Author: nk
- */
+
 
 #include<avr/io.h>
 #include<avr/delay.h>
